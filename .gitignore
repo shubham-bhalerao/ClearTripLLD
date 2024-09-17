@@ -8,6 +8,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+.idea
+
+ClearTrip.iml
+
 # AWS User-specific
 .idea/**/aws.xml
 
